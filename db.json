@@ -1,19 +1,22 @@
 {
-  "posts": [
+  "task": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "text": "Make something cool",
+      "day": "Monday 20 feb 2021",
+      "reminder": true,
+      "id": "5PBTOey"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "text": "Go shoping",
+      "day": "Feb 20 2021",
+      "reminder": false,
+      "id": "KUlzP0k"
+    },
+    {
+      "text": "Thank God",
+      "day": "010101",
+      "reminder": true,
+      "id": "WvdC9Jv"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
